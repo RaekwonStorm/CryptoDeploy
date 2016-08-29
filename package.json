@@ -1,0 +1,23 @@
+{
+  "name": "cryptopass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaekwonStorm/CryptoDeploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaekwonStorm/CryptoDeploy/issues"
+  },
+  "homepage": "https://github.com/RaekwonStorm/CryptoDeploy#readme",
+  "dependencies": {
+    "connect": "^3.4.1",
+    "serve-static": "^1.11.1"
+  }
+}
