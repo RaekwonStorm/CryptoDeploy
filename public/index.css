@@ -1,7 +1,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: 'BlinkMacSystemFont';
+  font-family: 'BlinkMacSystemFont', 'San Francisco', -apple-system, sans-serif;
   font-weight: 100;
 }
 
@@ -11,7 +11,7 @@ body {
 .lock-logo{
   display: inline-block;
   text-align: center;
-  margin-top: 150px;
+  margin-top: 50px;
 
 
   z-index: 2;
